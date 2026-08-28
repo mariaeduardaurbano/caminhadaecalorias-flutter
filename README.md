@@ -69,7 +69,7 @@ Se uma pessoa pesa 70 kg e percorre 5 km:
 
 ## 🎨 Interface
 
-O aplicativo utiliza principalmente tons de **verde clarinho e off-white**, criando uma interface leve, agradável e relacionada ao tema de caminhadas e bem-estar.
+O aplicativo utiliza principalmente tons de **rosa-queimado e rosa-claro**, criando uma interface leve, agradável e relacionada ao tema de caminhadas e bem-estar.
 
 ## 👩‍💻 Desenvolvido por Maria Eduarda Urbano
 
